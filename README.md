@@ -4,7 +4,7 @@
 
 
 ---
-= Hi, im Amer khawalda im Student at Orange Academy
+ Hi, im Amer khawalda im Student at Orange Academy
 i love Programming and problem sloving and technology
 ---
 My favorite book is Rich Dad Poor Dad and I love reading books in general
@@ -13,3 +13,4 @@ Watching movies and serials is a relative hobby for me
 ---
 Learning new things is very important in order to keep up with the changes
 
+Text attributes _italic_, **bold**, `monospace`.
