@@ -22,6 +22,6 @@ Skills
   2. programming languages
      - html
      - css
-     -javascript
+     - javascript
 ---
 
