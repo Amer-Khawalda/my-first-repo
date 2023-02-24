@@ -4,7 +4,7 @@
 
 
 ---
- Hi, im Amer khawalda im Student at Orange Academy
+ Hi, im Amer  AL-khawalda im Student at Orange Academy
  =======
 i love Programming and problem sloving and technology
 ---
