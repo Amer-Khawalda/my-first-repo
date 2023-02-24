@@ -1,6 +1,6 @@
 # my-first-repo
 
-(![download](https://user-images.githubusercontent.com/126089869/221149674-436361e3-e929-49c3-92b4-9c3a56d93afd.jpg))
+![download](https://user-images.githubusercontent.com/126089869/221149674-436361e3-e929-49c3-92b4-9c3a56d93afd.jpg)
 
 
 ---
