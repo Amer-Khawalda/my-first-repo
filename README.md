@@ -13,4 +13,9 @@ Watching movies and serials is a relative hobby for me
 ---
 Learning new things is very important in order to keep up with the changes
 
-Text attributes _italic_, **bold**, `monospace`.
+1. fruits
+     * apple
+     * banana
+  2. vegetables
+     - carrot
+     - broccoli
