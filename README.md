@@ -14,7 +14,7 @@ Watching movies and serials is a relative hobby for me
 ---
 Learning new things is very important in order to keep up with the changes
 ---
-Skills
+**Skills**
 -----------
 1. language
      * Arabic
