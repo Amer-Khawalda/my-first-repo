@@ -25,4 +25,4 @@ Learning new things is very important in order to keep up with the changes
      - javascript
 ---
 
-[figma](https://www.figma.com/file/I4x0w2blvvAugABECPlSkC/Untitled?node-id=0%3A1&t=cG5Tpnyj8RgfAE91-0)
+
