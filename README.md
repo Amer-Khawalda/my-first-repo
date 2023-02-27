@@ -25,14 +25,4 @@ Learning new things is very important in order to keep up with the changes
      - javascript
 ---
 
-#E-Learning A project to learn the latest courses, specializing in programming and technology
-
----
- In this project we used a tool Figma
- =======
-i love Programming and problem sloving and technology
----
-A copy has been made warframe and mockup 
----
-========
-
+[figma](https://www.figma.com/file/I4x0w2blvvAugABECPlSkC/Untitled?node-id=0%3A1&t=cG5Tpnyj8RgfAE91-0)
